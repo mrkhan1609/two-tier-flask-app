@@ -1,0 +1,12 @@
+               total        used        free      shared  buff/cache   available
+Mem:         3903720      527132     3114248        2988      503232     3376588
+Swap:              0           0           0
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root         15G  6.8G  7.7G  47% /
+tmpfs            1.9G     0  1.9G   0% /dev/shm
+tmpfs            763M  1.1M  762M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  114M  706M  14% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs            382M   12K  382M   1% /run/user/1000
